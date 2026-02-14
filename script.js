@@ -24,7 +24,7 @@ const noMessages = [
 const yesTeasePokes = [
     "Really? you never said 'yes' the first time 😏",
     "haha! You're supposed to be hard to get 👀",
-    "😈",
+    "Have I won already? 😈",
     "click no, I dare you 😏"
 ]
 
